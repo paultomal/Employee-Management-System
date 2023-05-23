@@ -1,2 +1,2 @@
 # OOP2-Project
-A C# class project about Employee Management 
+This is a Raw C# Project where there are 3 entities. Admin, Manager and Customer.  
